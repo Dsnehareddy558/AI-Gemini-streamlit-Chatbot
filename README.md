@@ -1,5 +1,5 @@
-AI Gemini Chatbot
-An AI-powered chatbot built using Google Gemini API and Streamlit.
+## AI Gemini Chatbot
+# An AI-powered chatbot built using Google Gemini API and Streamlit.
 
 Features:
 - Conversational AI chatbot
